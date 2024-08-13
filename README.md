@@ -1,4 +1,4 @@
-# Emotion Detection from Paragraphs
+# Automate detection of different emotions from paragraphs and predict overall emotion
 
 ## About
 This project is part of an Internship (TCS iON RIO 210).
@@ -7,7 +7,7 @@ This project is part of an Internship (TCS iON RIO 210).
 **RIO-210**: Automate detection of different emotions from paragraphs and predict the overall emotion
 
 ## Solution
-A complete analysis is available [here](emotion-prediction-notebook).
+A complete analysis is available (emotion-prediction-notebook).
 
 ## Contents
 - [Libraries](#libraries)
@@ -19,10 +19,9 @@ A complete analysis is available [here](emotion-prediction-notebook).
 
 ## Libraries
 **Core Libraries**:
-- numpy
-- sklearn
-- pandas
-- matplotlib
+Core libraries: numpy,sklearn,pandas,matplotlib
+Machine Learning / NLP Libraries  : Sci-kit Learn(sk-learn), NLTK
+Deep Learning Libraries : Tensorflow, Keras
 
 **Machine Learning / NLP Libraries**:
 - Sci-kit Learn (sklearn)
