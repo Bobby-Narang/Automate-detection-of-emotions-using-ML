@@ -4,7 +4,7 @@
 This project is part of an Internship (TCS iON RIO 210).
 
 ## Problem Statement
-**RIO-210**: Automate detection of different emotions from paragraphs and predict the overall emotion - (Batch 01).
+**RIO-210**: Automate detection of different emotions from paragraphs and predict the overall emotion
 
 ## Solution
 A complete analysis is available [here](emotion-prediction-notebook).
