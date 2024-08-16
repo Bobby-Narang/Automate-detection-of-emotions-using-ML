@@ -59,6 +59,3 @@ To determine the best model for this classification problem, a comparison was do
 - **Machine Learning**: SGD Classifier performed slightly better compared to the other models in terms of accuracy.
 - **Deep Learning**: The LSTM architecture provided the best results for predicting overall emotion from text, even better than SGD.
 
-## Data
-Please refer to the `Data` folder for dataset details.
-
